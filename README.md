@@ -1,6 +1,6 @@
 <h1 align="center">Olá pessoal! Meu nome é Johnny👋 </h1>
 <h3 align="center">🚀 Frontend Developer | Estudante de programação da trybe | amante da arte de transformar café em código  🚀</h3>
-<div>
+<div> 
 <img width = "35%" align="right" alt="PIC" height="300px" src="https://c.tenor.com/u85_yodXikMAAAAC/anime-hands.gif" />
 <div align="left"> 
   <h3> 👨🏻‍💻 Sobre mim </h3>
