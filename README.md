@@ -1,7 +1,7 @@
 <h1 align="center">Olá pessoal! Meu nome é Johnny👋 </h1>
 <h3 align="center">🚀 Frontend Developer | Estudante de programação da trybe | amante da arte de transformar café em código  🚀</h3>
 <div>
-<img width = "35%" align="right" alt="PIC" height="300px" src="https://www.pngitem.com/pimgs/m/4-42822_apple-tv-copy-developer-illustration-png-transparent-png.png" />
+<img width = "35%" align="right" alt="PIC" height="300px" src="https://c.tenor.com/u85_yodXikMAAAAC/anime-hands.gif" />
 <div align="left"> 
   <h3> 👨🏻‍💻 Sobre mim </h3>
   <p>Atualmente sou estudante de programação da <a href="https://www.betrybe.com/?utm_medium=cpc&utm_source=google&utm_campaign=Brand&utm_content=ad03_din_h&gclid=EAIaIQobChMI4KHuvcST8gIVchitBh2fPQwhEAAYASAAEgInkPD_BwE">Trybe 🚀</a> e procuro evoluir dia-a-dia para me tornar um desenvolvedor melhor. Escolhi estudar Desenvolvimento Web, pois é uma área que estimula a criatividade e sempre há novos desafios para solucionar e coisas novas para aprender.</p>
@@ -12,7 +12,7 @@
 </div>
 
 <div>
-  <h3> 💻 Linguagem e ferramentas </h3>
+  <h3> 💻 Linguagens e ferramentas </h3>
   <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/><img>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/>
