@@ -8,6 +8,7 @@
 
   - 🤔 &nbsp; Quero me especializar em criar aplicações cada vez mais performaticas e melhores.
   - 🎓 &nbsp; Atualmente estou estudando sobre REST-API's com Node / Express / MongoDB / MySQL e sockets.
+  - 📫 **johnny.arguello007@gmail.com**
 </div> 
 </div>
 
@@ -24,13 +25,13 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="60" height="60"/>
   <p>
 
-<h3 align="left">Onde me encontrar:</h3>
+<h3 align="left">Link para linkedin e portifólio :</h3>
 <section  align="left">
     <a href="https://www.linkedin.com/in/johnny-arguello-95b451217/" >
-      <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bed6907f8e4f5cb5bb21299b9070f4d7c51098c0/images/svg/linkedin.svg" alt="linkedin" width="4%" />
+     <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bed6907f8e4f5cb5bb21299b9070f4d7c51098c0/images/svg/linkedin.svg" alt="linkedin" width="4%" />
     </a>
-    <a href="mailto:johnny.arguello007@gmail.com?subject=Contato%20iniciado%20por%20github">
-      <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bed6907f8e4f5cb5bb21299b9070f4d7c51098c0/images/svg/email.svg" width="4%" />
+    <a href="https://johnny-batata.github.io/meu-portifolio/">
+     <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/3428513d6ee746e238e51d64f2a53231a0b9b7d9/images/svg/github.svg" width="4%" />
     </a>
 </section>
 
