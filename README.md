@@ -4,7 +4,7 @@
 <img width = "35%" align="right" alt="PIC" height="300px" src="https://www.pngitem.com/pimgs/m/4-42822_apple-tv-copy-developer-illustration-png-transparent-png.png" />
 <div align="left"> 
   <h3> 👨🏻‍💻 Sobre mim </h3>
-  <p>Atualmente sou estudante de programação da <a href="https://www.betrybe.com/?utm_medium=cpc&utm_source=google&utm_campaign=Brand&utm_content=ad03_din_h&gclid=EAIaIQobChMI4KHuvcST8gIVchitBh2fPQwhEAAYASAAEgInkPD_BwE">Trybe 🚀</a> e procuro evoluir dia-a-dia para me tornar um desenvolvedor melhor. Escolhi estudar Desenvolvimento Web, pois é uma área que estimula a criatividade e sempre há novos desafios que te estimulam a pensar em soluções diferentes </p>
+  <p>Atualmente sou estudante de programação da <a href="https://www.betrybe.com/?utm_medium=cpc&utm_source=google&utm_campaign=Brand&utm_content=ad03_din_h&gclid=EAIaIQobChMI4KHuvcST8gIVchitBh2fPQwhEAAYASAAEgInkPD_BwE">Trybe 🚀</a> e procuro evoluir dia-a-dia para me tornar um desenvolvedor melhor. Escolhi estudar Desenvolvimento Web, pois é uma área que estimula a criatividade e sempre há novos desafios para solucionar e coisas novas para aprender.</p>
 
   - 🤔 &nbsp; Quero me especializar em react para realizar aplicações cada vez mais performaticas e melhores.
   - 🎓 &nbsp; Atualmente estou estudando sobre REST-API's com Node / Express / MongoDB / MySQL e sockets.
