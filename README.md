@@ -7,7 +7,7 @@
   <p>Atualmente sou estudante de programação da <a href="https://www.betrybe.com/?utm_medium=cpc&utm_source=google&utm_campaign=Brand&utm_content=ad03_din_h&gclid=EAIaIQobChMI4KHuvcST8gIVchitBh2fPQwhEAAYASAAEgInkPD_BwE">Trybe 🚀</a> e procuro evoluir dia-a-dia para me tornar um desenvolvedor melhor. Escolhi estudar Desenvolvimento Web, pois é uma área que estimula a criatividade e sempre há novos desafios para solucionar e coisas novas para aprender.</p>
 
   - 🤔 &nbsp; Quero me especializar em criar aplicações cada vez mais performaticas e melhores.
-  - 🎓 &nbsp; Atualmente estou estudando sobre REST-API's com Node / Express / MongoDB / MySQL e sockets.
+  - 🎓 &nbsp; Atualmente estou estudando sobre Typescript e firebase.
   - 📫 **johnny.arguello007@gmail.com**
 </div> 
 </div>
